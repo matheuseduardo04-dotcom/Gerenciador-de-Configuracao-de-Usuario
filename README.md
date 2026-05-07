@@ -1,1 +1,3 @@
-# Gerenciador-de-Configuracao-de-Usuario
+# Gerenciador de Configuracao de Usuario
+# Projeto feito a partir do freeCodeCamp#
+# Stack # Python
